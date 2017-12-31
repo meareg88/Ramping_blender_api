@@ -1,0 +1,9 @@
+string name
+int32 repeat
+float32 speed
+float32 magnitude
+int32 priority
+float32 rampin
+float32 rampout
+duration duration
+float32 start
