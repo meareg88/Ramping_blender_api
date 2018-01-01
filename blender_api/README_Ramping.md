@@ -1,4 +1,4 @@
-#Gesture ramping experiment#
+#Gesture Ramping Experiment#
 Experiment to see the blending in and out effects by changing the values of 'ramp in' and 'ramp out' values and also try it out with various gestures provided.
 The default values set for gesture ramping are:
 `ramp in` :1
